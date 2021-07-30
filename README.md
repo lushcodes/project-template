@@ -25,4 +25,6 @@ This is a template for a Ruby web app using Sinatra & PostgreSQL. Test suite wil
 
 11. Run ```psql``` and use the command in the db/migrations folder to create your database.
 
-12. ENJOY!
+12. There is a commented out section of code in the spec_helper.rb file that you can use to truncate your tables if required.
+
+13. ENJOY!
