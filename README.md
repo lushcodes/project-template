@@ -1,8 +1,7 @@
-# PROJECT TEMPLATE FOR RUBY BASED WEB APP WITH TEST SUITE AND DATABASE SET UP
+# PROJECT TEMPLATE
+This is a template for a Ruby web app using Sinatra & PostgreSQL. Test suite will be handled by rspec/capybara. It is designed to get you up and running as soon as possible without the busy work so you can get to creating your apps fast!
 
-## This is a template for a Ruby web app using Sinatra & PostgreSQL. Test suite will be handled by rspec/capybara. It is designed to get you up and running as soon as possible without the busy work so you can get to creating your apps fast!
-
-### STEPS TO GET UP AND RUNNING
+## STEPS TO GET UP AND RUNNING
 
 1. Click the green 'Use this template' button on the Github repo.
 
